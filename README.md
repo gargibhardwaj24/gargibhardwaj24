@@ -38,7 +38,7 @@ Hi, I'm **Ayush**. I'm the founder and CEO of **[Resseti](https://resseti.com)**
 process error apart from an actual knowledge gap. It's not another AI tutor bolted onto a curriculum.
  
 - Currently building **Lumina** on `Next.js` / `React`, deployed on `Vercel`
-- Also **Venture Scout at LVLUP Ventures** (scouting and warm intros) and co-organising **TEDxCambridgeYouth**
+- Also **Venture Scout at LVLUP Ventures** (scouting and warm intros) **
 - Host of **The Builder's Mind**, a podcast for founders, investors and builders
 - Fun fact: **the idea for Lumina came from reverse-engineering GCSE mark schemes instead of just revising them**
 
